@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://github.com/ASITHA-MD/ASITHA-MD-V2">
+<a href="https://github.com/MANOJMDV2/MANOJ_MD_V2">
     <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
 </a>
 <hr>
