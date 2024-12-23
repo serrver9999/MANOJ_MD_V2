@@ -1,7 +1,7 @@
 <div align="center">
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＭＡＮＯＪ+ＭＤ+V2+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐌𝐀𝐍𝐎𝐉+𝐌𝐃+𝐕²+𝐖𝐇𝐀𝐓𝐒𝐀𝐀𝐏+𝐁𝐎𝐓!)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
@@ -45,44 +45,44 @@
 </p>
 
 <hr>
-<b>GET SESSION ID VIA PAIR CODE </b>
+<b>𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐕𝐈𝐀 𝐏𝐀𝐈𝐑 𝐂𝐎𝐃𝐄 </b>
 
 <a href='https://pair-code-production.up.railway.app/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
-<b>OWNER YOUTUBE CHANNEL</b>
+<b>𝐎𝐖𝐍𝐄𝐑 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</b>
 
-<a href='https://youtube.com/@sasstatube?' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://youtube.com/@sasstatube?' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get owner yt channel-red?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
-  _Github Account._<br><br>
-     [![MANOJ](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD)
+  _𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐂𝐂𝐎𝐔𝐍𝐓._<br><br>
+     [![𝐌𝐀𝐍𝐎𝐉](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD)
 <br>
 <hr>
-<b>CONTACT OWNER</b>
+<b>𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑</b>
 
-[![MANOJ](https://qu.ax/VfOij.jpg)](https://wa.me/917005439105)
+[![𝐌𝐀𝐍𝐎𝐉](https://qu.ax/VfOij.jpg)](https://wa.me/917005439105)
 <hr>
 
 <a href="https://whatsapp.com/channel/0029VaT1ewtI1rcbm9xB4s0U"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
 
 <hr>
 
-<b>DEPLOY</b>
+<b>𝐃𝐄𝐏𝐋𝐎𝐘</b>
 </br>
 </br>
- [![MANOJ](https://img.shields.io/badge/manoj_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/MANOJMDV2/MANOJ_MD_V2)
+ [![𝐌𝐀𝐍𝐎𝐉](https://img.shields.io/badge/manoj_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/MANOJMDV2/MANOJ_MD_V2)
   
-[![MANOJ](https://img.shields.io/badge/manoj_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+[![𝐌𝐀𝐍𝐎𝐉](https://img.shields.io/badge/manoj_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
-[![MANOJ](https://img.shields.io/badge/manoj_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+[![𝐌𝐀𝐍𝐎𝐉](https://img.shields.io/badge/manoj_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
-[![MANOJ](https://img.shields.io/badge/manoj_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+[![𝐌𝐀𝐍𝐎𝐉](https://img.shields.io/badge/manoj_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
 
-<b>COPY WORKFLOW CODE</b></br>
+<b>𝐂𝐎𝐏𝐘 𝐖𝐎𝐑𝐊𝐅𝐋𝐎𝐖 𝐂𝐎𝐃𝐄</b></br>
 ```
 name: Node.js CI
 
@@ -117,4 +117,3 @@ jobs:
 
     - name: Start application
       run: npm start
-```
