@@ -47,7 +47,7 @@
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
-<a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 02</b>
@@ -62,7 +62,7 @@
 <hr>
 <b>CONTACT OWNER</b>
 
-[![MANOJ](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/917005439105)
+[![MANOJ](https://qu.ax/VfOij.jpg)](https://wa.me/917005439105)
 <hr>
 
 <a href="https://whatsapp.com/channel/0029VaT1ewtI1rcbm9xB4s0U"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
