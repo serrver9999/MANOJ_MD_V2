@@ -45,14 +45,14 @@
 </p>
 
 <hr>
-<b>GET SESSION ID VIA PAIR CODE 01</b>
+<b>GET SESSION ID VIA PAIR CODE </b>
 
 <a href='https://pair-code-production.up.railway.app/pair' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
-<b>GET SESSION ID VIA PAIR CODE 02</b>
+<b>OWNER YOUTUBE CHANNEL</b>
 
-<a href='https://head-emelina-asitha2005-db02b116.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://youtube.com/@sasstatube?' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
