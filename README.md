@@ -117,3 +117,9 @@ jobs:
 
     - name: Start application
       run: npm start
+```
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+![𝐌𝐀𝐍𝐎𝐉-𝐌𝐃](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=👽+**©𝐏𝐎𝐖𝐄𝐑𝐄𝐃**+☠️+**𝐁𝐘**+💀;👿+**𝐌𝐀𝐍𝐎𝐉+𝐗𝐃+𝐌𝐀𝐍𝐎𝐉+𝐌𝐃+𝐁𝐎𝐓**+🤖;🔥+**𝐅𝐀𝐒𝐓𝐄𝐒𝐓+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐄𝐕𝐄𝐑!**;✊+**𝐄𝐍𝐉𝐎𝐘+𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒+𝐀𝐍𝐃+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒!**;💡+**𝐅𝐀𝐒𝐓+%7𝐂+𝐑𝐄𝐋𝐓𝐀𝐁𝐋𝐄+%7𝐂+𝐔𝐒𝐄𝐑-𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘+𝐁𝐎𝐓!**;✨+**𝐋𝐄𝐓'𝐒+𝐆𝐄𝐓+𝐒𝐓𝐀𝐑𝐓𝐄𝐒!**)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
