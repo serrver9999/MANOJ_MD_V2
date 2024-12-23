@@ -47,7 +47,7 @@
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
-<a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 02</b>
@@ -57,28 +57,28 @@
 <hr>
 
   _Github Account._<br><br>
-     [![ASITHA](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD)
+     [![MANOJ](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD)
 <br>
 <hr>
 <b>CONTACT OWNER</b>
 
-[![ASITHA](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94743381623)
+[![MANOJ](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/917005439105)
 <hr>
 
-<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
+<a href="https://whatsapp.com/channel/0029VaT1ewtI1rcbm9xB4s0U"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
 
 <hr>
 
 <b>DEPLOY</b>
 </br>
 </br>
- [![ASITHA](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/MANOJMDV2/MANOJ_MD_V2)
+ [![MANOJ](https://img.shields.io/badge/manoj_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/MANOJMDV2/MANOJ_MD_V2)
   
-[![ASITHA](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+[![MANOJ](https://img.shields.io/badge/manoj_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    
-[![ASITHA](https://img.shields.io/badge/asitha_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+[![MANOJ](https://img.shields.io/badge/manoj_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
-[![ASITHA](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+[![MANOJ](https://img.shields.io/badge/manoj_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
 
